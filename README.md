@@ -1,8 +1,8 @@
 <nav>
-    <a href="#"><div>Home</div></a>
-    <a href="#"><div>About</div></a>
-    <a href="#"><div>Contact</div></a>
-    <a href="#"><div>Sitemap</div></a>
+    <a href="#"><div>Hello World Assignment</div></a>
+    <a href="#"><div>About Me Assignment</div></a>
+    <a href="#"><div>Short Paper on Web Design</div></a>
+    <a href="#"><div>Assignment for Module 3</div></a>
 </nav>
 # imat639-oajayi
 Class Projects <div>
