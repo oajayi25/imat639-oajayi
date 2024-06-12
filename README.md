@@ -4,6 +4,6 @@
     <a href="#"><div>Short Paper on Web Design</div></a>
     <a href="#"><div>Assignment for Module 3</div></a>
 </nav>
-# imat639-oajayi
-Class Projects <div>
-This purpose of this website is to post my class assignments. 
+<title>Course Name: IMAT639</title>
+<div>Class Projects</div>
+<body>The purpose of this website is to post my class assigments.</body>
